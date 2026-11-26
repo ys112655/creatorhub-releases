@@ -3,12 +3,12 @@
   "build": 1,
   "schema_version": 2,
   "url": "https://raw.githubusercontent.com/ys112655/creatorhub-releases/main/CreatorHub-Update-1.4.3-1.zip",
-  "size": 155034,
-  "sha256": "f655dc217d0682f61969f8ed0ebafe4169395a1a2139057ac9edc8506bddaf7d",
+  "size": 155091,
+  "sha256": "c733b27f9a26c317ae8b403f9d4ecf51c2256d028c42a3d2281763829a1fc50d",
   "changelog": [
-    "版本号升级至 V1.4.3（用于现场实测 V1.4.2 一键热更新链路）"
+    "Upgrade to V1.4.3 (hot-update verification & UTF-8 updater subprocess fix)"
   ],
   "compatible_from": "1.3.0",
   "min_schema_version": 2,
-  "published_at": "2026-11-26T13:47:17+00:00"
+  "published_at": "2026-11-26T13:52:42+00:00"
 }
