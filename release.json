@@ -1,0 +1,17 @@
+{
+  "version": "1.4.1",
+  "build": 1,
+  "schema_version": 2,
+  "url": "https://raw.githubusercontent.com/ys112655/creatorhub-releases/main/CreatorHub-Update-1.4.1-1.zip",
+  "size": 154242,
+  "sha256": "a5873a543d08863e56d2dfcc91b7234066ca93dedae2f76e4ff4299e4d249868",
+  "changelog": [
+    "放宽达人表格导入限制：仅需有效主页链接或账号 ID 即可入库，缺失字段降级为未知",
+    "新增批量链接导入与自动补全入口（支持 YouTube 官方 RSS 补全，失败仍正常入库）",
+    "新增 BD 字段：支持导入、总库筛选、详情自由编辑与项目导出",
+    "预配置正式 HTTPS 一键更新源"
+  ],
+  "compatible_from": "1.3.0",
+  "min_schema_version": 2,
+  "published_at": "2026-11-26T11:35:00+00:00"
+}
