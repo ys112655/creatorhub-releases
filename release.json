@@ -3,12 +3,12 @@
   "build": 2,
   "schema_version": 2,
   "url": "https://raw.githubusercontent.com/ys112655/creatorhub-releases/main/CreatorHub-Update-1.4.3-2.zip",
-  "size": 155624,
-  "sha256": "d23e93378afa56198e6c4aff0351dcb905ad74a8bb901c4e5cdbe5f704beeb95",
+  "size": 155618,
+  "sha256": "b4a277898239c0ac0166c2a6ea63ed10012dadd2569d34dbf44f602d22f5b91f",
   "changelog": [
     "Release V1.4.3 build 2: 4-tab main nav, unknown vs 0 followers, frictionless Excel import, empty-state guides"
   ],
   "compatible_from": "1.3.0",
   "min_schema_version": 2,
-  "published_at": "2026-11-27T06:17:21+00:00"
+  "published_at": "2026-11-27T06:23:47+00:00"
 }
